@@ -1,6 +1,6 @@
-# Movie Date Website 🎬💕
+# You will never be rejected 💕
 
-A fun and interactive website that asks someone on a movie date with playful UI interactions!
+A fun and interactive website that asks someone on a movie date or whatever date you'll plan with playful UI interactions!
 
 ## Features ✨
 
